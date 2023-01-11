@@ -13,9 +13,6 @@ class Car
 end
 
 car = Car.new
-car.turn("左")
-
-car = Car.new
 car.move("右", 5)
 
 class Car
